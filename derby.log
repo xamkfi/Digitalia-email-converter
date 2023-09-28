@@ -1,0 +1,14 @@
+----------------------------------------------------------------
+Tue Sep 26 15:32:43 EEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-018a-d17a-3cbb-00001b0a6800 
+on database directory /home/digitalia-aj/.droid6/profiles/1695731563452/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/software/droid/lib/derby-10.13.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.20.1+1-post-Ubuntu-0ubuntu122.04
+user.dir=/home/digitalia-aj/extraspace/eclipse-workspace/Email-converter
+os.name=Linux
+os.arch=amd64
+os.version=5.19.0-45-generic
+derby.system.home=null
+derby.stream.error.file=/home/digitalia-aj/.droid6/logs/derby.log
+Database Class Loader started - derby.database.classpath=''
